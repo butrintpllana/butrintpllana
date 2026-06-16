@@ -3,8 +3,7 @@
 Frontend Engineer with 3+ years of experience shipping production-grade
 web applications across multiple industries and sectors.
 
-I specialize in React and TypeScript, but the honest answer is — if it 
-runs in a browser, I can build it.
+I specialize in web application - frontend technologies
 
 ## What I work with
 **Core:** JavaScript (ES6+), TypeScript, React.js, Next.js  
